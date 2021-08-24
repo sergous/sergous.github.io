@@ -233,7 +233,7 @@ input[type="submit"]:disabled {
     text-align: center;
     font-variant: normal;
     text-transform: none;
-    line-height: 1em;
+    line-height: 2em;
     margin-left: 0.2em;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -1025,6 +1025,7 @@ footer > p > a:hover {
     }
     .homepage-body .external-profiles-link-list > li {
         display: block;
+        margin-bottom: 1em;
     }
 }
 .homepage-body .external-profile-link {
@@ -1044,7 +1045,7 @@ footer > p > a:hover {
     display: inline-block;
     font-size: 0.75019em;
     line-height: 1.77689em;
-    margin-top: 0.88844em;
+    margin-top: 1.5em;
     padding-left: 0.4em;
     vertical-align: top;
 }
